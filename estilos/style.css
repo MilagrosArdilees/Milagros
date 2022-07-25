@@ -64,3 +64,14 @@ footer{
     background-color:fuchsia;
 }
 
+body{
+    background-color: aqua;
+}
+
+main{
+    background-color: mediumvioletred;
+    /*transition-duration: 3s;
+    
+    transition-property: all;*/
+    transition: all 3s;
+}
